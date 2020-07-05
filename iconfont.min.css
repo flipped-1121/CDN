@@ -8,9 +8,10 @@
 }
 
 .iconfont {
-  font-family: "iconfont" !important;
+  font-family: iconfont !important;
   font-size: 16px;
   font-style: normal;
+  display: inline-block;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
