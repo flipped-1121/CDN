@@ -1,5 +1,4 @@
 /*彩虹文字*/
-
 rainbow-text, rainbow-text * {
 	padding-top: 3px;
 	background-image: linear-gradient( to left, orangered, orange, gold, lightgreen, cyan, dodgerblue, mediumpurple, hotpink, orangered);
@@ -22,3 +21,15 @@ rainbow-text, rainbow-text * {
 		background-position: -2000vw;
 	}
 }
+
+/*文字抖动*/
+.Pshake{
+    display: inline-block;
+    will-change: transform; /*可以删除*/
+    -webkit-transform-origin: center center;
+    -ms-transform-origin: center center;
+        transform-origin: center center;
+    -webkit-animation: Pshake_Crazy 1s ease-in-out infinite;
+            animation: Pshake_Crazy 1s ease-in-out infinite;
+}
+
