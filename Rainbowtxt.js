@@ -8,3 +8,8 @@ function random_keyframes(){
         g=i+b+XYRrandom()+c+XYRrandom()+d+XYRrandom()+e;a=a+g;
     }
 return a+f;}
+
+const rkstyle = document.createElement('style');
+rkstyle.type = 'text/css';
+rkstyle.innerHTML = random_keyframes();
+document.getElementsByTagName('head')[0].appendChild(rkstyle);
