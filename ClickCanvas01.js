@@ -1,6 +1,4 @@
-//鼠标点击效果
-! function () {
-    var Sketch = function () {
+var Sketch = function () {
         "use strict";
 
         function e(e) {
@@ -271,4 +269,3 @@
             }();
         });
     }
-}
