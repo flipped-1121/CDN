@@ -1,8 +1,8 @@
 .jun-meter {
     position: relative;
-    width: 640px;
-    height: 640px;
-    background-image: url("../img/ring.svg");
+    width: 300px;
+    height: 300px;
+    background-image: url("https://cdn.jsdelivr.net/gh/flipped-1121/CDN@master/clock/img/ring.svg");
     background-repeat: no-repeat;
     background-size: 100%;
     margin: auto;
@@ -11,88 +11,88 @@
 
 .jun-time-rect {
     position: absolute;
-    width: 30px;
-    height: 80px;
-    left: 275px;
-    top: 180px;
-    background-image: url("../img/rect.svg");
-    background-size: 40px 40px;
+    width: 26px;
+    height: 65px;
+    left: 119px;
+    top: 70px;
+    background-image: url("https://cdn.jsdelivr.net/gh/flipped-1121/CDN@master/clock/img/rect.svg");
+    background-size: 30px 34px;
 }
 
 .jun-time-h-h {
     position: absolute;
-    width: 100px;
-    height: 100px;
-    left: 140px;
-    top: 170px;
-    background-image: url("../img/8.svg");
+    width: 50px;
+    height: 50px;
+    left: 56px;
+    top: 78px;
+    background-image: url("https://cdn.jsdelivr.net/gh/flipped-1121/CDN@master/clock/img/8.svg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .jun-time-h-l {
     position: absolute;
-    width: 100px;
-    height: 100px;
-    left: 200px;
-    top: 170px;
-    background-image: url("../img/8.svg");
+    width: 50px;
+    height: 50px;
+    left: 87px;
+    top: 78px;
+    background-image: url("https://cdn.jsdelivr.net/gh/flipped-1121/CDN@master/clock/img/8.svg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .jun-time-m-h {
     position: absolute;
-    width: 100px;
-    height: 100px;
-    left: 290px;
-    top: 170px;
-    background-image: url("../img/8.svg");
+    width: 50px;
+    height: 50px;
+    left: 131px;
+    top: 78px;
+    background-image: url("https://cdn.jsdelivr.net/gh/flipped-1121/CDN@master/clock/img/8.svg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .jun-time-m-l {
     position: absolute;
-    width: 100px;
-    height: 100px;
-    left: 350px;
-    top: 170px;
-    background-image: url("../img/8.svg");
+    width: 50;
+    height: 50;
+    left: 161px;
+    top: 78;
+    background-image: url("https://cdn.jsdelivr.net/gh/flipped-1121/CDN@master/clock/img/8.svg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .jun-time-s-h {
     position: absolute;
-    width: 60px;
-    height: 60px;
-    left: 430px;
-    top: 208px;
-    background-image: url("../img/8.svg");
+    width: 30;
+    height: 30;
+    left: 196px;
+    top: 98px;
+    background-image: url("https://cdn.jsdelivr.net/gh/flipped-1121/CDN@master/clock/img/8.svg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .jun-time-s-l {
     position: absolute;
-    width: 60px;
-    height: 60px;
-    left: 470px;
-    top: 208px;
-    background-image: url("../img/8.svg");
+    width: 30;
+    height: 30px;
+    left: 214px;
+    top: 98px;
+    background-image: url("https://cdn.jsdelivr.net/gh/flipped-1121/CDN@master/clock/img/8.svg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .jun-calendar-date {
     position: absolute;
-    width: 120px;
-    height: 30px;
-    left: 460px;
-    top: 310px;
+    width: 120;
+    height: 30;
+    left: 171px;
+    top: 136px;
     line-height: 30px;
-    font-size: 20px;
+    font-size: 12px;
     text-align: center;
 }
 
@@ -100,20 +100,20 @@
     position: absolute;
     width: 120px;
     height: 30px;
-    left: 460px;
-    top: 345px;
+    left: 171px;
+    top: 159px;
     line-height: 30px;
-    font-size: 20px;
+    font-size: 12px;
     text-align: center;
 }
 
 .jun-human{
     position: absolute;
-    width: 150px;
-    height: 150px;
-    left: 250px;
-    top: 280px;
-    background-image: url("../img/human.gif");
+    width: 65;
+    height: 65;
+    left: 122px;
+    top: 133px;
+    background-image: url("https://cdn.jsdelivr.net/gh/flipped-1121/CDN@master/clock/img/human.gif");
     background-repeat: no-repeat;
     background-size: 100%;
 }
